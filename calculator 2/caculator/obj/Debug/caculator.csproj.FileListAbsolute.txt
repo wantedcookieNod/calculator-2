@@ -1,0 +1,22 @@
+c:\users\sima\documents\visual studio 2015\Projects\caculator\caculator\bin\Debug\caculator.exe.config
+C:\Users\Sima\documents\visual studio 2015\Projects\caculator\caculator\bin\Debug\caculator.exe
+C:\Users\Sima\documents\visual studio 2015\Projects\caculator\caculator\bin\Debug\caculator.pdb
+C:\Users\Sima\documents\visual studio 2015\Projects\caculator\caculator\obj\Debug\caculator.csprojResolveAssemblyReference.cache
+C:\Users\Sima\documents\visual studio 2015\Projects\caculator\caculator\obj\Debug\caculator.Form1.resources
+C:\Users\Sima\documents\visual studio 2015\Projects\caculator\caculator\obj\Debug\caculator.Properties.Resources.resources
+C:\Users\Sima\documents\visual studio 2015\Projects\caculator\caculator\obj\Debug\caculator.csproj.GenerateResource.Cache
+C:\Users\Sima\documents\visual studio 2015\Projects\caculator\caculator\obj\Debug\caculator.exe
+C:\Users\Sima\documents\visual studio 2015\Projects\caculator\caculator\obj\Debug\caculator.pdb
+F:\Farnood\Visual Studio 2015\Prog\calculator farnood\caculator\bin\Debug\caculator.exe.config
+F:\Farnood\Visual Studio 2015\Prog\calculator farnood\caculator\obj\Debug\caculator.exe
+F:\Farnood\Visual Studio 2015\Prog\calculator farnood\caculator\obj\Debug\caculator.pdb
+F:\My codes\calculator farnood\caculator\bin\Debug\caculator.exe.config
+F:\My codes\calculator farnood\caculator\bin\Debug\caculator.exe
+F:\My codes\calculator farnood\caculator\bin\Debug\caculator.pdb
+F:\My codes\calculator farnood\caculator\obj\Debug\caculator.csprojAssemblyReference.cache
+F:\My codes\calculator farnood\caculator\obj\Debug\caculator.Form1.resources
+F:\My codes\calculator farnood\caculator\obj\Debug\caculator.Properties.Resources.resources
+F:\My codes\calculator farnood\caculator\obj\Debug\caculator.csproj.GenerateResource.cache
+F:\My codes\calculator farnood\caculator\obj\Debug\caculator.csproj.CoreCompileInputs.cache
+F:\My codes\calculator farnood\caculator\obj\Debug\caculator.exe
+F:\My codes\calculator farnood\caculator\obj\Debug\caculator.pdb
